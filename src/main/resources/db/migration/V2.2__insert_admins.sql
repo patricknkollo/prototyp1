@@ -1,0 +1,1 @@
+insert into administrator(adminName,mail)values('pnkollo','nkollopatrick@yahoo.fr');

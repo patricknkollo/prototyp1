@@ -1,0 +1,1 @@
+insert into customer(customerName,address,email,phone,creditCardInfo,shippingInfo)values('customername1','adress1','customer1@yahoo.fr','0013645974634','valid card','valid shipping');

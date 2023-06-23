@@ -1,0 +1,1 @@
+insert into shippingInfo(shippingType,shippingCost,shippingRegionId)values('typeA',100.99,1);

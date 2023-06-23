@@ -1,0 +1,1 @@
+insert into user(password,loggingStatus)values('pwjhgebooefg','online');
